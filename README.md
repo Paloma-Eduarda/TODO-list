@@ -15,7 +15,7 @@ O **TODO-list** é uma aplicação Java para criar, listar, filtrar e excluir ta
 
 ## Tecnologias
 
-- Java Development Kit (JDK) 8 ou superior.
+- Java Development Kit (JDK).
 - IntelliJ IDEA ou qualquer IDE compatível com Java.
 
 ## Como Executar
