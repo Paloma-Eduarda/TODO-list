@@ -41,7 +41,6 @@ O **TODO-list** é uma aplicação Java para criar, listar, filtrar e excluir ta
 
 4. **Filtrar Tarefas**:
    - Filtre por status, categoria ou prioridade seguindo as opções do menu.
-Desenvolvido por: Paloma Eduarda
 
 ## Validações de Entrada
 
@@ -49,4 +48,6 @@ Desenvolvido por: Paloma Eduarda
 - **Categoria** : Entrada deve ser uma das opções TRABALHO, CASA e ESTUDO (usuário pode digitar com letras minusculas também, contando que a palavra esteja escrita de maneira correta).
 - **Status**: Entrada deve ser uma das opções TODO, DOINE e DONE (usuário pode digitar com letras minusculas também, contando que a palavra esteja escrita de maneira correta).
 - **Data**: Deve estar no formato `dd/MM/yyyy`.
+
+
 Desenvolvido por: Paloma Eduarda
