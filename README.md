@@ -45,6 +45,6 @@ O **TODO-list** é uma aplicação Java para criar, listar, filtrar e excluir ta
 ## Validações de Entrada
 
 - **Prioridade**: Deve ser um número entre 1 e 5.
-- **Categoria** : Devem ser digitados exatamente como listados nas opções.
-  - Status**
+- **Categoria** : Entrada deve ser uma das opções TRABALHO, CASA e ESTUDO (usuário pode digitar com letras minusculas também, contando que a palavra esteja escrita de maneira correta).
+- **Status**: Entrada deve ser uma das opções TODO, DOINE e DONE (usuário pode digitar com letras minusculas também, contando que a palavra esteja escrita de maneira correta).
 - **Data**: Deve estar no formato `dd/MM/yyyy`.
