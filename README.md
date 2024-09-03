@@ -22,7 +22,7 @@ O **TODO-list** é uma aplicação Java para criar, listar, filtrar e excluir ta
 
 1. Clone o repositório ou baixe o código-fonte.
 2. Compile e execute a classe `Main`.
-3. Utilize com o menu principal no console.
+3. Utilize o menu principal no console.
 
 ## Instruções de Uso
 
@@ -41,6 +41,7 @@ O **TODO-list** é uma aplicação Java para criar, listar, filtrar e excluir ta
 
 4. **Filtrar Tarefas**:
    - Filtre por status, categoria ou prioridade seguindo as opções do menu.
+Desenvolvido por: Paloma Eduarda
 
 ## Validações de Entrada
 
